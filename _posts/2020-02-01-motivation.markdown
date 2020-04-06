@@ -5,7 +5,6 @@ date:   2020-04-05 17:32:15 +0100
 categories: jekyll update 
 permalink: /:categories/:year/:month/:day/:title
 ---
-BLABLABLA
 The risk of heavy rainfall events and resulting urban pluvial floods increases because of the climate change, 
 increasing urbanisation and outdated drainage systems [^Henonin2013]. To avoid damages by heavy rain and urban pluvial floods, 
 the conception of a heavy rain risk management is necessary [^Fuchs2013]. 
