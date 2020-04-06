@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Structure of the code"
-date:   2020-01-17 17:32:15 +0100
+date:   2020-04-04 17:32:15 +0100
 categories: jekyll update 
 permalink: /:categories/:year/:month/:day/:title
 ---

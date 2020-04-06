@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Motivation"
-date:   2020-01-17 17:32:15 +0100
+date:   2020-04-05 17:32:15 +0100
 categories: jekyll update 
 permalink: /:categories/:year/:month/:day/:title
 ---
