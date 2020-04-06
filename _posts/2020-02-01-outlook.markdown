@@ -1,0 +1,5 @@
+--- 
+layout: "post"
+title: "Outlook"
+date: 2020-01-16 19:00:00 -0700
+--- 
